@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "jabodetabek",
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "nama": "dki jakarta", "luas (km2)": 661.5, "populasi (ribu jiwa)": { }, "tahun": 2025 }, "geometry": { "type": "Point", "coordinates": [ 106.826339253613867, -6.176559267919828 ] } },
+{ "type": "Feature", "properties": { "nama": "tangerang", "luas (km2)": 164.5, "populasi (ribu jiwa)": 1965, "tahun": 2025 }, "geometry": { "type": "Point", "coordinates": [ 106.62956425678442, -6.177586015077267 ] } },
+{ "type": "Feature", "properties": { "nama": "tangerang selatan", "luas (km2)": 147.19, "populasi (ribu jiwa)": 1429.529, "tahun": 2025 }, "geometry": { "type": "Point", "coordinates": [ 106.705855004199293, -6.322502353945438 ] } },
+{ "type": "Feature", "properties": { "nama": "depok", "luas (km2)": 200.3, "populasi (ribu jiwa)": "2163.6399999999999", "tahun": 2025 }, "geometry": { "type": "Point", "coordinates": [ 106.816023893449653, -6.406953551923053 ] } },
+{ "type": "Feature", "properties": { "nama": "bekasi", "luas (km2)": 210.5, "populasi (ribu jiwa)": "2526.1329999999998", "tahun": 2025 }, "geometry": { "type": "Point", "coordinates": [ 106.991260657862995, -6.234995368826276 ] } },
+{ "type": "Feature", "properties": { "nama": "bogor", "luas (km2)": 118.5, "populasi (ribu jiwa)": "5682.30", "tahun": 2025 }, "geometry": { "type": "Point", "coordinates": [ 106.798196976477641, -6.594855937921167 ] } }
+]
+}
